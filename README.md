@@ -31,12 +31,6 @@ gender-detection-streamlit/
 
 ---
 
-## 📸 Sample Flowchart
-
-![Flowchart](assets/flowchart.png)
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
